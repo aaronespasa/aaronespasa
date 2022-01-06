@@ -2,7 +2,7 @@
 
 <br/>
 
-<img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" width="280" height="200" />
+<img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" width="350" height="200" />
 
 <ul>
   <li>👨‍💻 I'm a Computer Vision Engineer & Front-end developer</li>
