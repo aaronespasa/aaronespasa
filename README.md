@@ -8,7 +8,7 @@
   <li>👨‍💻 I'm a Computer Vision Engineer & Front-end developer</li>
   <li>🔭 I’m currently creating a real-time wall colouring app</li>
   <li>🌱 I’m currently learning Vision Transformers & state-of-the-art image segmentation</li>
-  <li>👯 I’m currently contributing to PyTorch Live to make it available for Apple Silicon</li>
+  <li>👯 I’m currently contributing to [PyTorch Live](https://github.com/pytorch/live) to make it available for Apple Silicon</li>
   <li>⌚️ I've 4 years of development experience</li>
   <li>📫 How to reach me: <a href="https://twitter.com/aaronespasa">Twitter</a>, <a href="https://www.linkedin.com/in/aaronespasa/">LinkedIn</a>, <a href="mailto:aaespasa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">E-mail</a></li>
 </ul>
