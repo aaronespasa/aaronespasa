@@ -7,7 +7,7 @@
 <ul>
   <li>👨‍💻 I'm a Computer Vision Engineer & Front-end developer</li>
   <li>🔭 I’m currently creating a real-time wall colouring app</li>
-  <li>🌱 I’m currently learning about [3D Vision](https://link.springer.com/book/10.1007/978-0-387-21779-6), Computer Graphics & Edge AI</li>
+  <li>🌱 I’m currently learning about <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">3D Vision</a>, Computer Graphics & Edge AI</li>
   <li>👯 I’m currently contributing to <a href="https://github.com/pytorch/live">PyTorch Live</a> to make it available on Apple Silicon</li>
   <li>⌚️ I've 4 years of development experience</li>
   <li>📫 How to reach me: <a href="https://twitter.com/aaronespasa">Twitter</a>, <a href="https://www.linkedin.com/in/aaronespasa/">LinkedIn</a>, <a href="mailto:aaespasa@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">E-mail</a></li>
