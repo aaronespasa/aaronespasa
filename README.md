@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" width="300" height="200" />
 
 <ul>
-  <li>👨‍💻 I'm a Computer Vision Engineer & Front-end developer</li>
+  <li>👨‍💻 I'm a Computer Vision Engineer</li>
   <li>🔭 I’m currently creating a real-time wall colouring app</li>
   <li>🌱 I’m currently learning about <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">3D Vision</a>, Computer Graphics & Edge AI</li>
   <li>👯 I’m currently contributing to <a href="https://github.com/pytorch/live">PyTorch Live</a> to make it available on Apple Silicon</li>
