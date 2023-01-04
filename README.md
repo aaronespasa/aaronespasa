@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.com/aaronespasa/aaronespasa/blob/main/banner-animated-full-name.gif" /></p>
+<!-- <p align="center"><img src="https://github.com/aaronespasa/aaronespasa/blob/main/banner-animated-full-name.gif" /></p> -->
+
+<img align="center" src="https://github.com/aaronespasa/aaronespasa/blob/main/header.svg" />
 
 <br/>
 
