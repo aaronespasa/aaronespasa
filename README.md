@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" width="300" height="200" />
+<img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" width="400" height="100" />
 
 <ul>
   <li>👨‍💻 I'm a Computer Vision Engineer</li>
