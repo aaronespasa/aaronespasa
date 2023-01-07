@@ -7,7 +7,7 @@
 <ul>
   <li>👨‍💻 I'm a Computer Vision Engineer</li>
   <li>🛠 Working for Saturdays.ai as a web developer & Computer Vision Mentor</li>
-  <li>📚 Studying the 3rd of the CS undergraduate at the UC3M</li>
+  <li>📚 3rd year of CS (UC3M)</li>
   <li>🔭 Creating a platform to teach Computer Vision in Spanish</li>
   <li>🌱 Currently learning about <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">3D Vision</a> & Computer Graphics</li>
   <li>👯 I've contributed to <a href="https://github.com/pytorch/live">PlayTorch</a> to make it available on Apple Silicon on 2021</li>
