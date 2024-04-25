@@ -12,26 +12,19 @@
 
 <img align="right" src="https://github.com/aaronespasa/aaronespasa/blob/main/coffee.svg" height="200" />
 
-  👨‍💻 I'm a Computer Vision Engineer
+  👨‍💻 I'm a Software Engineer specialized in Machine Learning
   
-  🛠 Working for Saturdays.ai as a web developer & Computer Vision Mentor
+  🛠 I've been a Generative AI Engineer intern at Vodafone
   
-  📚 3rd year of CS (UC3M)
+  📚 4th year of CS (UC3M)
   
-  🌱 Currently learning about <a href="https://link.springer.com/book/10.1007/978-0-387-21779-6">3D Vision</a> & Computer Graphics
+  🌱 Currently learning about how to optimise DL models for its execution on the edge on mobile devices
   
   👯 I've contributed to <a href="https://github.com/pytorch/live">PlayTorch</a> to make it available on Apple Silicon on 2021
   
-  ⌚️ I've 5 years of development experience
+  ⌚️ I started programming when I was 14 years old. Now I'm about to turn 22.
   
-  📫 How to reach me: <a href="https://twitter.com/aaronespasa">Twitter</a>, <a href="https://www.linkedin.com/in/aaronespasa/">LinkedIn</a>, <a href="mailto:aaron@computervision.es?subject=[GitHub]%20Source%20Han%20Sans">E-mail</a> (aaron@computervision.es)
+  📫 How to reach me: <a href="https://twitter.com/aaronespasa">Twitter</a>, <a href="https://www.linkedin.com/in/aaronespasa/">LinkedIn</a>, <a href="mailto:me@aaronespasa.com?subject=[GitHub]%20Source%20Han%20Sans">E-mail</a> (me@aaronespasa.com)
 
 <br/>
 
-<br/>
-
-<br/>
-
-Also, I'm creating a platform to teach Computer Vision in Spanish. Click in the following image (or go to <a href="https://www.computervision.es">computervision.es</a>) to take a look:
-
-<p align="center"><a href="https://www.computervision.es"><img src="https://github.com/aaronespasa/aaronespasa/blob/main/header.svg" /></a></p>
